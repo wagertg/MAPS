@@ -1,4 +1,4 @@
-<h1 align="center">Current Intership - Multidiscplinary Association for Psychedelic Studies (MAPS) 🪬</h1>
+<h1 align="center">Multidiscplinary Association for Psychedelic Studies (MAPS) 🪬</h1>
 
 <p align="center">
 <a href="https://github.com/wagertg/Portfolio"><img src="https://img.shields.io/badge/-Back%20to%20Portfolio-grey?style=flat"/></a>
@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About The Project
 
-Developing the MAPS Fiscal Sponsorships landing platform, a dedicated hub for grassroots organizations to explore both legacy and ongoing projects, as well as to facilitate effortless sponsorship applications. Collaborating with diverse stakeholders, we are committed to meeting cross-departmental requirements, ranging from the precise representation of projects to adeptly securing new donors, thereby fostering a vibrant and synergistic ecosystem.
+In my current intership, I have been assigned to develop the MAPS Fiscal Sponsorships landing platform, a dedicated hub for grassroots organizations to explore both legacy and ongoing projects, as well as to facilitate effortless sponsorship applications. Collaborating with diverse stakeholders, we are committed to meeting cross-departmental requirements, ranging from the precise representation of projects to adeptly securing new donors, thereby fostering a vibrant and synergistic ecosystem.
 
 ## 🛠️ Built With
 

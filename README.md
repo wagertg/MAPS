@@ -1,5 +1,4 @@
-<h1 align="center">Current Intership</h1>
-<h1 align="center">Multidiscplinary Association for Psychedelic Studies (MAPS) 🪬</h1>
+<h1 align="center">Current Intership - Multidiscplinary Association for Psychedelic Studies (MAPS) 🪬</h1>
 
 <p align="center">
 <a href="https://github.com/wagertg/Portfolio"><img src="https://img.shields.io/badge/-Back%20to%20Portfolio-grey?style=flat"/></a>

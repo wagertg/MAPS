@@ -29,31 +29,23 @@ This application was built utilizing a collection of technologies including but 
 
 ## 📸 Snapshots
 
-![MAPS](./Screenshots/fiscal-1.jpg)
+![MAPS](./Screenshots/01_fiscal.jpg)
 
 ---
 
-![MAPS](./Screenshots/fiscal-2.jpg)
+![MAPS](./Screenshots/02_fiscal.jpg)
 
 ---
 
-![MAPS](./Screenshots/fiscal-3.jpg)
+![MAPS](./Screenshots/03_fiscal.jpg)
 
 ---
 
-![MAPS](./Screenshots/fiscal-4.jpg)
+![MAPS](./Screenshots/01_legacy.jpg)
 
 ---
 
-![MAPS](./Screenshots/legacy-1.jpg)
-
----
-
-![MAPS](./Screenshots/legacy-2.jpg)
-
----
-
-![MAPS](./Screenshots/legacy-3.jpg)
+![MAPS](./Screenshots/02_legacy.jpg)
 
 ---
 
@@ -61,37 +53,25 @@ This application was built utilizing a collection of technologies including but 
 
 ---
 
-![MAPS](./Screenshots/active-1.jpg)
+![MAPS](./Screenshots/01_active.jpg)
 
 ---
 
-![MAPS](./Screenshots/active-2.jpg)
+![MAPS](./Screenshots/02_active.jpg)
 
 ---
 
-![MAPS](./Screenshots/active-3.jpg)
+![MAPS](./Screenshots/03_active.jpg)
 
 ---
 
-![MAPS](./Screenshots/active-4.jpg)
+![MAPS](./Screenshots/01_app.jpg)
 
 ---
 
-![MAPS](./Screenshots/started-1.jpg)
+![MAPS](./Screenshots/02_app.jpg)
 
 ---
 
-![MAPS](./Screenshots/started-2.jpg)
+![MAPS](./Screenshots/03_app.jpg)
 
----
-
-![MAPS](./Screenshots/started-3.jpg)
-
----
-
-![MAPS](./Screenshots/started-4.jpg)
-
-
----
-
-![MAPS](./Screenshots/started-5.jpg)

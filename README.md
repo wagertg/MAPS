@@ -8,7 +8,7 @@
 
 ## 👨‍💻 About The Project
 
-In my current intership, I have been assigned to develop the [MAPS Fiscal Sponsorships](https://maps.org/fiscal-sponsorships/) platform, a dedicated hub for grassroots organizations to explore both [legacy](https://maps.org/fiscal-sponsorships/legacy-projects/) and [active](https://maps.org/fiscal-sponsorships/active-projects/) projects, as well as to facilitate effortless [sponsorship applications](https://maps.org/fiscal-sponsorships/get-started/). Collaborating with diverse stakeholders, we are committed to meeting cross-departmental requirements, ranging from the precise representation of projects to adeptly securing new donors, thereby fostering a vibrant and synergistic ecosystem.
+In my current intership, I have been assigned to develop the [MAPS Fiscal Sponsorships](https://maps.org/fiscal-sponsorships/) platform, a dedicated hub for grassroots organizations to explore both [Legacy](https://maps.org/fiscal-sponsorships/legacy-projects/) and [Active](https://maps.org/fiscal-sponsorships/active-projects/) projects, as well as to facilitate effortless [Sponsorship Applications](https://maps.org/fiscal-sponsorships/get-started/). Collaborating with diverse stakeholders, we are committed to meeting cross-departmental requirements, ranging from the precise representation of projects to adeptly securing new donors, thereby fostering a vibrant and synergistic ecosystem.
 
 ## 🛠️ Built With
 
